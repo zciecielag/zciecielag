@@ -2,14 +2,14 @@
 
 I'm a 
 
-# 🔭 I’m currently working on:
+🔭 I’m currently working on:
   A mobile game which places focus on accessibility features for blind and visually impaired people.
   
-# I’m currently learning
+I’m currently learning
   Unity, C#, Unreal Engine.
 
-# 📫 How to reach me:
+📫 How to reach me:
   E-mail: zuzannaciecielag1@gmail.com
 
-# 😄 Pronouns:
+😄 Pronouns:
   Any are fine.
