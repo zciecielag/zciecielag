@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuzanna Ciecieląg</h1>
 <h3 align="center">I make games and apps :)</h3>
 
-<iframe src="https://giphy.com/embed/udK21RQeWtaGQ" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ">via GIPHY</a></p>
+![Lain using a computer]([http://url/to/img.png](https://giphy.com/embed/udK21RQeWtaGQ)
 
 - 🔭 I’m currently working on [a mobile game accessible for blind and visually impaired people](https://github.com/zciecielag/blind-accessible-game)
 
