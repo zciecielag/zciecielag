@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zuzanna Ciecieląg</h1>
 <h3 align="center">I make games and apps :)</h3>
 
-- 🔭 I’m currently working on [A mobile game accessible for blind and visually impaired people](https://github.com/zciecielag/blind-accessible-game)
+<iframe src="https://giphy.com/embed/udK21RQeWtaGQ" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ">via GIPHY</a></p>
+
+- 🔭 I’m currently working on [a mobile game accessible for blind and visually impaired people](https://github.com/zciecielag/blind-accessible-game)
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
 
