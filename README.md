@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuzanna Ciecieląg</h1>
 <h3 align="center">I make games and apps :)</h3>
 
-<p align="center">
-  <img src="https://giphy.com/embed/udK21RQeWtaGQ" width="350" title="hover text">
-</p>
-
 - 🔭 I’m currently working on [a mobile game accessible for blind and visually impaired people](https://github.com/zciecielag/blind-accessible-game)
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
