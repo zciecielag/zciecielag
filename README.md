@@ -4,7 +4,7 @@
 <h2>🎮 Games</h2>
 
 🕹 **Games I'm currently developing:**
-* [Cztery Łapy do Pomocy - a mobile game accessible for blind and visually impaired people](https://github.com/zciecielag/blind-accessible-game)
+* [Cztery Łapy do Pomocy](https://github.com/zciecielag/blind-accessible-game)  - a mobile game accessible for blind and visually impaired people
 
 🎲 **My game development tech stack:**
 * Unity 2D
