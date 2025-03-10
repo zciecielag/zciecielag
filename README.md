@@ -44,7 +44,7 @@
 <h2>🌐 Web apps </h2>
 
 👩‍💻 **Web apps I'm currently developing:**
-* [Steps TDEE Calculator](https://github.com/zciecielag/steps-tdee-calculator) - A **Java Spring Boot** web application that proposes an estimate of TDEE (Total Daily Energy Expenditure) based on a person's step count. *(In progress)*
+* [Steps TDEE Calculator](https://github.com/zciecielag/steps-tdee-calculator) - A **Java Spring Boot** web application that proposes an estimate of TDEE (Total Daily Energy Expenditure) based on a person's step count and offers the ability to track TDEE over time.*(In progress)*
 * [Book API](https://github.com/zciecielag/book-api) - A **Java Spring Boot** web application and **API** for managing a book database. *(Functional)*
 
 🖥️ **My web development tech stack:**
