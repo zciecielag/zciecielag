@@ -4,8 +4,9 @@
 <h2>👋 About me</h2>
 
 * I'm a software enginner with a <b>Bachelor of Engineering (BE)</b> in Computer Science 👩‍💻
-* I develop <b>websites</b>, <b>apps</b> and <b>games</b>
-* I speak <b>Polish</b> and <b>English</b> fluently, as well as a little <b>French</b> and <b>Japanese</b>
+* I develop <b>web applications</b> and <b>games</b>
+* I'm primarily interested in making and participating in projects that have a <b>tangible, positive</b> impact on their users and potentially the broader society
+* I speak <b>Polish</b> and <b>English</b> fluently (certified C2 level), as well as a little <b>French</b> and <b>Japanese</b>
 
 <h2>💻 What I use</h2>
 
@@ -44,7 +45,8 @@
 <h2>🌐 Web apps </h2>
 
 👩‍💻 **Web apps I'm currently developing:**
-* [Steps TDEE Calculator](https://github.com/zciecielag/steps-tdee-calculator) - A **Java Spring Boot** web application that proposes an estimate of TDEE (Total Daily Energy Expenditure) based on a person's step count and offers the ability to track TDEE over time.*(In progress)*
+* [Steps TDEE Calculator](https://github.com/zciecielag/steps-tdee-calculator) - A **Java Spring Boot** web application that proposes an estimate of TDEE (Total Daily Energy Expenditure) based on a person's step count and offers the ability to track TDEE over time. *(In progress)*
+* [Polish Sign Language (PJM) Learning App](https://github.com/zciecielag/polish-sign-language-app) - An app which teaches users Polish Sign Language (Polski Język Migowy, PJM) through intuitive and immersive exercises. *(Planning and prototyping stage)*
 * [Book API](https://github.com/zciecielag/book-api) - A **Java Spring Boot** web application and **API** for managing a book database. *(Functional)*
 
 🖥️ **My web development tech stack:**
