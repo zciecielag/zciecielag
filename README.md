@@ -5,7 +5,7 @@
 
 * I'm a software enginner with a <b>Bachelor of Engineering (BE)</b> in Computer Science 👩‍💻
 * I develop <b>web applications</b> and <b>games</b>
-* I speak <b>Polish</b> and <b>English</b> fluently (certified C2 level), as well as a little <b>French</b> and <b>Japanese</b>
+* I speak <b>Polish</b> and <b>English</b> fluently, as well as a little <b>French</b> and <b>Japanese</b>
 
 <h2>💻 What I use</h2>
 
