@@ -1,10 +1,9 @@
 <h1 align="center">Zuzanna Ciecieląg</h1>
-<h3 align="center">Software Engineer</h3>
 
 <h2>👋 About me</h2>
 
-* I'm a software enginner with a <b>Bachelor of Engineering (BE)</b> in Computer Science 👩‍💻
-* I develop <b>web applications</b> and <b>games</b>
+* I'm a <b>Bachelor of Engineering (BEng)</b> in Computer Science 👩‍💻
+* I develop <b>web apps</b> and <b>games</b>
 * I speak <b>Polish</b> and <b>English</b> fluently, as well as a little <b>French</b> and <b>Japanese</b>
 
 <h2>💻 What I use</h2>
