@@ -1,5 +1,3 @@
-<h1 align="center">Zuzanna Ciecieląg</h1>
-
 <h2>👋 About me</h2>
 
 * I'm a <b>Bachelor of Engineering (BEng)</b> in Computer Science 👩‍💻
