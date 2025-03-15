@@ -47,14 +47,7 @@
 * [Polish Sign Language (PJM) Learning App](https://github.com/zciecielag/polish-sign-language-app) - An app which teaches users Polish Sign Language (Polski Język Migowy, PJM) through intuitive and immersive exercises. *(Planning and prototyping stage)*
 * [Book API](https://github.com/zciecielag/book-api) - A **Java Spring Boot** web application and **API** for managing a book database. *(Functional)*
 
-🖥️ **My web development tech stack:**
-* Java (Spring Boot)
-* HTML, CSS
-* Javascript
-* PHP
-* SQL (SQLite, MySQL, JDBC, PostgreSQL)
-
-👩‍🎓 **I am currently in the process of learning:**
+👩‍🎓 **I am currently learning:**
 * Docker
 * React
 
@@ -63,30 +56,14 @@
 🕹 **Games I'm currently developing:**
 * [Cztery Łapy do Pomocy](https://github.com/zciecielag/blind-accessible-game)  - a **mobile game** accessible for blind and visually impaired children. *(First demo version v0.0.1-alpha available)*
 
-🎲 **My game development tech stack:**
-* Unity 2D
-* Unreal Engine 2D
-* Blueprint
-* C#
-* C++
-* Blender
-
-👩‍🎓 **I am currently in the process of learning:**
+👩‍🎓 **I am currently learning:**
 * Unity 3D
 * Unreal Engine 3D
 
-<h2>📫 Contact me</h2>
+<h2>📫 How to contact me</h2>
 
  * E-mail: **zuzannaciecielag1@gmail.com**
  * [LinkedIn](https://www.linkedin.com/in/zuzannaciecielag/)
-
-<h2>📊 Some stats </h2>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zciecielag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=zciecielag&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
