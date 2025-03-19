@@ -47,7 +47,7 @@
 👩‍💻 **Web apps I'm currently developing:**
 * [Steps TDEE Calculator](https://github.com/zciecielag/steps-tdee-calculator) - A **Java Spring Boot** web application that proposes an estimate of TDEE (Total Daily Energy Expenditure) based on a person's step count and offers the ability to track TDEE over time. *(In progress)*
 * [Polish Sign Language (PJM) Learning App](https://github.com/zciecielag/polish-sign-language-app) - An app which teaches users Polish Sign Language (Polski Język Migowy, PJM) through intuitive and immersive exercises. *(Planning and prototyping stage)*
-* [Book API](https://github.com/zciecielag/book-api) - A **Java Spring Boot** web application and **API** for managing a book database. *(Functional)*
+* [Book API](https://github.com/zciecielag/book-api) - A **Java Spring Boot** web application and **API** for managing a book database. *(Functional - planning to expand)*
 
 👩‍🎓 **I am currently learning:**
 * Docker
